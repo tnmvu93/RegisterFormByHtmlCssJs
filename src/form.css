@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+form {
+	margin: auto;
+	width: 500px;
+	height: 500px;
+	position: relative;
+}
+
+div {
+	margin: 10px 0;
+	position: relative;
+}
+
+label {
+	position: absolute;
+	left: 0;
+}
+
+textarea {
+	width: 150px;
+	height: 100px;
+	right: 0;
+	margin: 10px 0;
+}
